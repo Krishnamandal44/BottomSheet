@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/avik/Development/BottomSheet/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_skip_previous.png",
+        "source": "/home/avik/Development/BottomSheet/app/build/generated/res/pngs/debug/drawable-ldpi/ic_skip_previous.png"
+    },
+    {
+        "merged": "/home/avik/Development/BottomSheet/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_play.png",
+        "source": "/home/avik/Development/BottomSheet/app/build/generated/res/pngs/debug/drawable-ldpi/ic_play.png"
+    },
+    {
+        "merged": "/home/avik/Development/BottomSheet/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_skip_next.png",
+        "source": "/home/avik/Development/BottomSheet/app/build/generated/res/pngs/debug/drawable-ldpi/ic_skip_next.png"
+    }
+]
